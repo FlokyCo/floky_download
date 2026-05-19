@@ -1,0 +1,14 @@
+{
+  "name": "video-downloader-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot to download videos from YouTube, Instagram, TikTok",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}
